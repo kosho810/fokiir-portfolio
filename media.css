@@ -1,0 +1,273 @@
+/* xs */
+@media all and (min-width: 0px) and (max-width: 600px) {
+  /* ---------section one cover-------- */
+
+  /* section two about me ------------- */
+
+  .about-me-left {
+    width: 100%;
+    text-align: center;
+  }
+  .about-me-left .square {
+    border: none;
+  }
+ 
+  .profile-overlay {
+    margin-bottom: 10px;
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+
+  .about-me-right {
+    width: 100%;
+  }
+  .info-left {
+    float: left;
+    width: 100%;
+  }
+  .info-right {
+    float: left;
+    width: 100%;
+  }
+
+  .info-btn {
+    float: left;
+    width:50%;
+    
+  }
+
+  /* ---------our services------------ */
+  .our-services {
+    background-color: #f1f1f1;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 30px;
+  }
+  .our-services-content {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+  }
+  .our-services-item {
+    width: 100%;
+  }
+  .clr {
+    clear: both;
+  }
+
+  .our-blog-item {
+    width: 100%;
+  }
+
+  /* section four our portfolio ---------------- */
+  .portfolio-item {
+    width: 100%;
+  }
+
+  /* section five records ---------------- */
+  .records {
+    background-color: #f1f1f1;
+  }
+  .records-item {
+    width: 100%;
+  }
+
+  /* section six client feedback------------- */
+
+  .client-content {
+    width: 80%;
+    margin: auto;
+    padding: 100px 0px;
+  }
+  .client-data {
+    background-color: #f1f1f1;
+    padding: 50px 20px;
+    width: 100%;
+    margin: auto;
+    position: relative;
+  }
+  .client-img  {
+    width: 100%;
+    
+   
+  }
+  .client-img img {
+    width: 40%;
+  }
+  .client-info {
+    width: 100%;
+    
+    text-align: left;
+  }
+}
+
+/* sm */
+@media all and (min-width: 601px) and (max-width: 768px) {
+  .our-blog-item {
+    width: 100%;
+  }
+
+  .records-item {
+    width: 50%;
+  }
+  .portfolio-item {
+    width: 50%;
+  }
+  .our-services-item {
+    width: 50%;
+  }
+  .about-me-left {
+    width: 100%;
+  }
+  .about-me-right {
+    width: 100%;
+  }
+  .info-left {
+    float: left;
+    width: 100%;
+  }
+  .info-right {
+    float: left;
+    width: 100%;
+  }
+
+  /* section two about me ------------- */
+
+  .about-me-left {
+    width: 100%;
+    text-align: center;
+  }
+  .about-me-left .square {
+    border: none;
+  }
+ 
+  .profile-overlay {
+    margin-bottom: 10px;
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+
+  .about-me-right {
+    width: 100%;
+  }
+  .info-left {
+    float: left;
+    width: 100%;
+  }
+  .info-right {
+    float: left;
+    width: 100%;
+  }
+
+  .info-btn {
+    float: left;
+    width:40%;
+    
+  }
+
+  /* section six client feedback------------- */
+
+  .client-content {
+    width: 80%;
+    margin: auto;
+    padding: 100px 0px;
+  }
+  .client-data {
+    background-color: #f1f1f1;
+    padding: 50px 20px;
+    width: 100%;
+    margin: auto;
+    position: relative;
+  }
+  .client-img  {
+    width: 100%;
+    
+   
+  }
+  .client-img img {
+    width: 40%;
+  }
+  .client-info {
+    width: 100%;
+    
+    text-align: left;
+  }
+}
+
+/* md */
+
+@media all and (min-width: 769px) and (max-width: 991px) {
+  .our-blog-item {
+    width: 100%;
+  }
+  .records-item {
+    width: 50%;
+  }
+  .portfolio-item {
+    width: 50%;
+  }
+  .our-services-item {
+    width: 50%;
+  }
+
+  /* section two about me ------------- */
+
+  .about-me-left {
+    width: 100%;
+    text-align: center;
+  }
+  .about-me-left .square {
+    border: none;
+  }
+ 
+  .profile-overlay {
+    margin-bottom: 10px;
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+
+  .about-me-right {
+    width: 100%;
+  }
+  .info-left {
+    float: left;
+    width: 100%;
+  }
+  .info-right {
+    float:right;
+    width: 100%;
+  }
+
+  .info-btn {
+    float: left;
+    width:40%;
+    
+  }
+
+  /* section six client feedback------------- */
+
+ 
+}
+
+/* lg */
+
+@media all and (min-width: 992px) and (max-width: 1200px) {
+  .our-blog-item {
+    width: 30%;
+    
+  }
+  .records-item {
+    width: 50%;
+  }
+}
+
+/* xl */
+
+@media all and (min-width: 1201px) {
+  .records-item {
+    width: 25%;
+  }
+}
